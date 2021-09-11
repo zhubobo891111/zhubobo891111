@@ -1,0 +1,2 @@
+1. The document (EDP_IMs.mat) explains the relationship between EDP-IMs under 100 calculations.
+2. Finite element model of the bridge
